@@ -1,7 +1,7 @@
 INSTALL KINGZUBOT PREM!!
 (VPS HARUS VERSI 22.04)
 
- ``` apt update && apt upgrade -y ```
+ `` apt update && apt upgrade -y ``
 
 ``` apt install unzip ```
 
